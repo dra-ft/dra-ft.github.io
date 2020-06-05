@@ -3,7 +3,8 @@ remote_theme: lilykonings/louie
 # theme: jekyll-theme-minimal
 header: dra.ft
 desc: >
- dra.ft explores emergent ideas of text and its future. dra.ft is conceptualised and managed by ajaibghar and dobedobedobe
+ dra.ft explores emergent ideas of text and its future. 
+ dra.ft is conceptualised and managed by ajaibghar and dobedobedobe
 # posts
 date_format: "%b %-d, %Y"
 post_title: Details
