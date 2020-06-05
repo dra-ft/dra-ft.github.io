@@ -8,7 +8,7 @@ desc: >
 date_format: "%b %-d, %Y"
 post_title: Details
 post_date: Year
-# post_cat: Genre
+post_cat: Genre
 
 # post detail
 prev-next: true
