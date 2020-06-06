@@ -1,6 +1,5 @@
 remote_theme: lilykonings/louie
 
-# theme: jekyll-theme-minimal
 header: dra.ft
 desc: >
  dra.ft explores emergent ideas of text and its future. 
@@ -13,6 +12,18 @@ post_cat: Category
 
 # post detail
 prev-next: true
+
+# In _config.yml
+...
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:title
+...
 
 # build settings
 markdown: kramdown
