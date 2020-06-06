@@ -16,3 +16,5 @@ prev-next: true
 
 # build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
