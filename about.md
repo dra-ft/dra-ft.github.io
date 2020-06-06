@@ -1,10 +1,12 @@
 ---
 layout: post
+title: about
 ---
-## about dra.ft
-
 
 ## team
 agat<br />
 nanditi<br />
 ambika<br />
+
+## contact
+email
