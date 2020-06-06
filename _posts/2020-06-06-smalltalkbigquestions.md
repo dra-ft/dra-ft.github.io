@@ -12,4 +12,4 @@ Hugo to add write up
 
 *filename date to changed as per whenever we post it*
 
-[DOWNLOAD E-ZINE](/assets/SmallTalkBigQuestions_CoPojam2020.pdf)
+[DOWNLOAD E-ZINE](https://github.com/ajaibghar-co/draft-test.github.io/raw/master/assets/SmallTalkBigQuestions_CoPojam2020.pdf)
