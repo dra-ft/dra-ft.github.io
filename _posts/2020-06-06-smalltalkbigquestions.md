@@ -3,7 +3,7 @@ layout: post
 title: Small Talk Big Questions
 author: Hugo Pilate
 category: Guest Post
-img: /assets/images/stbq.png
+img: https://github.com/ajaibghar-co/draft-test.github.io/raw/master/assets/images/STBQ.png
 ---
 
 # Small Talk Big Questions
