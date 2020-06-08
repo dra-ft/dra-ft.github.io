@@ -22,7 +22,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /:title
+     
 ...
 
 # build settings
