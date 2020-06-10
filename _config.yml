@@ -28,4 +28,11 @@ defaults:
 # build settings
 markdown: kramdown
 
+# plugins
+plugins:
+  - jekyll-relative-links
+  relative_links:
+  enabled:     true
+  collections: false
+
 theme: jekyll-theme-cayman
