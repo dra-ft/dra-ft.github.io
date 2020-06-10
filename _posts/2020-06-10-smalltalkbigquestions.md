@@ -26,4 +26,4 @@ If you want to try out your own improvisations you can visit the [website.](http
 ##### Know more about the generator
 The generator was developed as part of Hugo's work as a design researcher, you can read about it [here.](https://medium.com/hello-qs/automation-design-sprints-e7fdbe88fe89)
 
-*This was part of [Co-po-Jam](_posts/2020-05-18-copojam.md) (15/05/2020)* 
+*This was part of [Co-po-Jam](/copojam1) (15/05/2020)* 
