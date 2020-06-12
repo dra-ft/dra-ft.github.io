@@ -1,9 +1,17 @@
 remote_theme: lilykonings/louie
 
+# site
+title: dra.ft
+baseurl: ""
+url: "http://draft.ajaibghar.com"
+favicon: "assets/images/apple-touch-icon.png"
+
+#bio
 header: dra.ft
 desc: >
  dra.ft explores emergent ideas of text and its future. 
  dra.ft is conceptualised and managed by ajaibghar and dobedobedobe
+
 # posts 
 date_format: "%b %-d, %Y"
 post_title: Details
