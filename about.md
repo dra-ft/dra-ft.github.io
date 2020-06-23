@@ -19,8 +19,6 @@ dra.ft ~~is a festival that explores the intersections between technology, creat
 
 It is in these intersectional spaces that we can produce, perform and embody new meanings and develop new texts. ~~The festival~~ dra.ft encourages unfinished, work in progress, prototypes, tests (essentially drafts) of texts and text making.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQcQrTs0-zmT7fKPNZjn5_obHO7L4kaHfRaqxcjBMkzc-WqxPGNCdg8gCJZ7i1YRn1AmnVqI7l42frV/pub?embedded=true"></iframe>
-
 ## team
 agat
 
