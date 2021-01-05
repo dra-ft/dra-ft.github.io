@@ -4,7 +4,7 @@ title: Tuesday Takeover
 author: Ambika
 category: Zoom webinar
 permalink: /tuesday-takeover
-img: 
+img: https://github.com/dra-ft/dra-ft.github.io/raw/master/assets/images/tt1407_kath_intro_post1.png
 ---
 
 # Tuesday Takeovers (Jul-Aug 2020)
