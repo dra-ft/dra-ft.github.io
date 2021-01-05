@@ -17,4 +17,4 @@ Some examples -
 Katherine: https://www.instagram.com/stories/highlights/17970516739309647/
 Salil: https://www.instagram.com/stories/highlights/17852865455173540/
 
-<iframe height="100%" src="https://www.youtube.com/embed/6TzQZhwGudc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TzQZhwGudc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
