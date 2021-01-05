@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Co-Po-Jam 
+title: Tuesday Takeover
 author: Ambika
 category: Zoom webinar
-permalink: /copojam1
-img: https://raw.githubusercontent.com/ajaibghar-co/draft-test.github.io/master/copojam-logo2.png 
+permalink: /tuesday-takeover
+img: 
 ---
 
-Tuesday Takeovers (Jul-Aug 2020)
+# Tuesday Takeovers (Jul-Aug 2020)
 
 A community-run weekly initiative to share inspirations, works and ideas in the context of text and its future. 
 
