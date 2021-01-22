@@ -3,7 +3,7 @@ layout: post
 title: Small Talk Big Questions
 author: dra.ft team
 category: Guest Post
-img: https://github.com/ajaibghar-co/draft-test.github.io/raw/master/assets/images/STBQ.png
+img: https://github.com/dra-ft/dra-ft.github.io/raw/master/assets/images/stbq-small-slow2.gif
 permalink: /smalltalk-bigq
 ---
 
