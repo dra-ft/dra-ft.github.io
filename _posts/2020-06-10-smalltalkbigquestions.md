@@ -10,9 +10,9 @@ permalink: /smalltalk-bigq
 # Small Talk Big Questions
 #### Machine aided improvisations
 
-[Hugo](http://hugopilate.com) set up the **smalltalkquestions** generator on the zoom webinar screeshare, he would narrate the questions posed by the generator and participants could chime in with their improvised line of poetry in the chat box on Zoom and Youtube. The collected responses where made into a zine.  
+[Hugo](http://hugopilate.com) set up the **smalltalkquestions** generator on the zoom webinar screenshare, he would narrate the questions posed by the generator and participants could chime in with their improvised line of poetry in the chat box on Zoom and Youtube. The collected responses where made into a zine.  
 
-[DOWNLOAD THE E-ZINE HERE](https://github.com/ajaibghar-co/draft-test.github.io/raw/master/assets/SmallTalkBigQuestions_CoPojam2020.pdf)
+[DOWNLOAD THE E-ZINE HERE](/assets/SmallTalkBigQuestions_CoPojam2020.pdf)
 
 ### Some screenshots from the Zine! 📖📝
 ![gif of zine images](/assets/images/stbq-small-slow2.gif)
