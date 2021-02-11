@@ -42,12 +42,13 @@ E-lit about E-lit, Proposals for unstable platforms, Hacking the platforms, Plat
 
 ## Proposed Components for “Platform as a Place of Study”
 ### Collaborative Text Lab
-Proposed a 3-4 day artist workshop with archival platforms of the region.  Facilitators will introduce artists to the resource/archive and useful tools. Process and works will be showcased on a dedicated website. 
-Some proposed subjects: Multilinguality, Tech, Design (Visual, Interaction), Gaming
-Proposed archives: Pad.ma, Tattle, Rekhta,  NCBS, Pari Network
+Proposed a 3-4 day artist workshop with archival platforms of the region. Facilitators will introduce artists to the resource/archive and useful tools. Process and works will be showcased on a dedicated website as an interactive exhibition. 
+Proposed subjects: Multilinguality, Tech, Design (Visual, Interaction), Gaming
+Proposed archives: Pad.ma, Tattle, Rekhta, NCBS, Pari Network
 
 ### Co-Po-Jam 
 co-po-jam is an opportunity for writers, artists and technologists to showcase their works outside of mainstream contexts. An experimental space to discover, hypothesise and speculate on the nature of writing in the digital age.
+
 There will be 2 Jams organised through the proposed time period. Each event might focus on certain subjects or regions. 
 Themes include but not limited to:
 - Code as poetry
@@ -66,27 +67,16 @@ Other points
 - Code Poetry Jam - 2 Jam events to be conducted
   - One month prior to conference (April 2021)
   - During conference (May 2021)
-- Entries via Open Call (separate for each Jam)
-- ELO Conference tickets for the selected presenters
-- Selection and moderation will be with the advisors/facilitators involved with dra.ft in this project 
+- Entries via Open Call (separate for each Jam) 
 
-Past CoPoJam: https://dra-ft.site/copojam1
+Past CoPoJam: <https://dra-ft.site/copojam1>
 
 ### E-LIT and LIVECODING
  From the growing efforts in the livecoding (Algorave) community in the region, a music and music writing showcase is part of proposed components. 
 The focus will be to share workflows, tools, and larger concepts around algorithms, improvisation as a creative tool in music performance. Creating a discursive jump off point for creators of various backgrounds.  
 
-### WEBSITE/INTERFACE
- Works created or featured will be showcased on a collaborative web interface (example: a hotglue website/collaborative google slide/miro board).
-Some additional interactive features for visitors: Leaving comments on exhibits, Pinboard for dropping Memes (memes as e-lit), Collaborative Haiku Submitters, Generative poetry, etc
-
-### COMMON ROOM @ ELO
-Platform as a place of Study 
-
-Integrated within the main ELO website and conference/festival experience - Common Room is a virtual venue, a place visited frequently and sporadically where people go for fun, relaxation, impromptu jams, chit-chat or pin their artworks/text/memes. 
-The Common Room also hosts social/creative events, performances, exhibition and workshops organized by dra.ft (and extended community) through the conference days (as detailed above)
-As a digital platform built specifically for the social aspects of a conference, Common Room also enables activities such as icebreakers, impromptu collective jams/poetry, discussions and pinboards. 
-
-[add image]
+### WEBSITE/INTERFACE for INTERACTIVE EXHIBITION
+Works created or featured will be showcased on an interactice web interface. 
+Some interactive features for visitors: leaving comments on exhibits, pinboard for dropping memes (memes as e-lit), collaborative haiku submitters, generative poetry, etc.
 
 
