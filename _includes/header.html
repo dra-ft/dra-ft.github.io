@@ -12,4 +12,11 @@
       {% endfor %}
     </ul>
   {% endif %}
+ {% if site.data.latest %}
+    <ul class="bio__social">
+      {% for item in site.data.latest %}
+        <li><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}	
 </div>
