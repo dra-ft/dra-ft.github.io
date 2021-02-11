@@ -43,7 +43,9 @@ E-lit about E-lit, Proposals for unstable platforms, Hacking the platforms, Plat
 ## Proposed Components for “Platform as a Place of Study”
 ### Collaborative Text Lab
 Proposed a 3-4 day artist workshop with archival platforms of the region. Facilitators will introduce artists to the resource/archive and useful tools. Process and works will be showcased on a dedicated website as an interactive exhibition. 
+
 Proposed subjects: Multilinguality, Tech, Design (Visual, Interaction), Gaming
+
 Proposed archives: Pad.ma, Tattle, Rekhta, NCBS, Pari Network
 
 ### Co-Po-Jam 
