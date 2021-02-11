@@ -9,9 +9,8 @@ favicon: "assets/images/apple-touch-icon.png"
 #bio
 header: dra.ft
 desc: >
- dra.ft explores emergent ideas of text and its future. 
- dra.ft is conceptualised and managed by ajaibghar and dobedobedobe
-
+ dra.ft is a movement, a festival, a community, a long-term research project that explores emergent ideas of text and its future.
+ dra.ft draws from the idea of poetic computation where the machine and author are collaborators. It is in these intersectional spaces that we can produce, perform and embody new meanings and develop new texts. dra.ft encourages unfinished, work in progress, prototypes, tests (essentially drafts) of texts and text making.
 # posts 
 date_format: "%b %-d, %Y"
 post_title: Details
