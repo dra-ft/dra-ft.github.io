@@ -8,7 +8,7 @@ title: Platform as a place of study
 *Curated by dra.ft*
 
 A series of exhibitions, workshops and activities focused on Indian and Asian E-Lit that will unfold through Spring 2021.
-In Partnership with [Electronic Literature Organization Conference 2021] (https://eliterature.org/2020/11/cfp-elo-2021-conference-and-festival-platform-post-pandemic/)
+In Partnership with [Electronic Literature Organization Conference 2021](https://eliterature.org/2020/11/cfp-elo-2021-conference-and-festival-platform-post-pandemic/)
 
 
 ## CONCEPT NOTE
