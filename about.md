@@ -20,11 +20,18 @@ dra.ft ~~is a festival that explores the intersections between technology, creat
 It is in these intersectional spaces that we can produce, perform and embody new meanings and develop new texts. ~~The festival~~ dra.ft encourages unfinished, work in progress, prototypes, tests (essentially drafts) of texts and text making.
 
 ## team
-agat
 
-nanditi
+agat - Theatre Maker. Educator. Designer.
 
-ambika
+nanditi - Technical Program Manager turned Arts Professional. Classical Musician. Live Coder. Co-founder, Ajaibghar.
+
+ambika - Museum Professional. Creative Coder. Certified Project Manager. Computational_Mama. Co-founder, Ajaibghar.
+
+## advisors
+
+Archana Prasad, Founder & Director of Jaaga.in
+
+Zainab Bawa, CEO & Co-Founder at Hasgeek
 
 ## contact
 [email us](mailto:dra.ft.festival@gmail.com)
